@@ -1,7 +1,10 @@
 Augemented reality revised
 
-tested with iPhone 4 with iOS 4+
+tested on iPhone 4 with iOS 5
+
 i couldn't test it on iPhone 5, 
-one thing the changes is the FOV
+only thing that changes is the FOV
+
+iPhone < 4 is not supported
 
 Example: see DemoVC
